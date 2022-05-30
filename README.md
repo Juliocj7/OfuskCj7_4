@@ -24,7 +24,9 @@
 
 
 ## Menú Principal :
-![Screenshot_20210820-131338_Termux](https://user-images.githubusercontent.com/81049859/130302134-fcdb5f8c-97d4-4f8c-8dbd-0c2b98ff8234.png)
+![Screenshot_20220530-112745_Termux](https://user-images.githubusercontent.com/81049859/171024435-97d609c5-b5b1-42d4-b1f8-ee00c30df1dc.png)
+
+
 
 
 ## Script Ofuscado :
@@ -32,7 +34,7 @@
 
 - > ` Nota: El desofuscador se encuentra en mi versión PREMIUM, por lo tanto NO se encuentra activado en este script público.`:sunglasses:
 
-## OfuskCj7_4 :
+## OfuskCj7 4 :
 * Mi **Cuarto Ofuscador** de BashScript.
 - > ` Ofuscador: GZIP `
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
