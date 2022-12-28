@@ -23,10 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220530-112745_Termux](https://user-images.githubusercontent.com/81049859/171024435-97d609c5-b5b1-42d4-b1f8-ee00c30df1dc.png)
-
-## Script Ofuscado :
-![Screenshot_20210715-163619_Termux](https://user-images.githubusercontent.com/81049859/125854187-0ebefe23-05c9-4343-bede-e58e95dca12d.png)
+![Screenshot_20221227-232720_Termux](https://user-images.githubusercontent.com/81049859/209753298-663c6bcc-1476-48a2-929d-302596e6b8fa.png)
 
 - > ` Nota: El desofuscador se encuentra en mi versión PREMIUM, por lo tanto NO se encuentra activado en este script público.`:sunglasses:
 
