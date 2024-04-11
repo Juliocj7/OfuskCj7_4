@@ -25,25 +25,23 @@
 ## Menú Principal :
 ![1000328323](https://github.com/Juliocj7/OfuskCj7_4/assets/81049859/9643897d-6c01-408f-b211-adda2a379955)
 
-- > ` Nota: El desofuscador se encuentra en mi versión PREMIUM, por lo tanto NO se encuentra activado en este script público.`:sunglasses:
+> [!IMPORTANT]
+> Nota: El desofuscador se encuentra en mi versión PREMIUM, por lo tanto NO se encuentra activado en este script público :sunglasses:
 
 ## OfuskCj7 4 :
 * Mi **Cuarto Ofuscador** de BashScript.
-- > ` Ofuscador: GZIP `
+- Ofuscador: ` GZIP `
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Instalación :
-
-* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
-
-~~~
-https://github.com/Juliocj7/UtilsCj7
-~~~
+> [!NOTE]  
+> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
 ```bash
-  yes|pkg update && pkg upgrade
+  yes|apt update && apt upgrade
 ```
+
 * ` git clone https://github.com/Juliocj7/OfuskCj7_4 `
 
 * ` cd OfuskCj7_4 `
